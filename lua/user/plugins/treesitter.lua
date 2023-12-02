@@ -10,6 +10,7 @@ return {
       "json",
       "jsonc",
       "typescript",
+      "css",
     })
   end,
 }

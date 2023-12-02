@@ -11,6 +11,7 @@ return {
       "jsonc",
       "typescript",
       "css",
+      "html",
     })
   end,
 }
